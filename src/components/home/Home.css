@@ -1,0 +1,11 @@
+.title{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    color: rgba(11,59,75,0.81);
+}
+
+@media screen and (max-width: 750px) {
+    .title{
+        font-size: 18px;
+    }
+}
